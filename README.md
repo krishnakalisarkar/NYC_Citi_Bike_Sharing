@@ -17,7 +17,7 @@ The purpose of this analysis is to spin a story with Tableau Visualizations. The
 * The start location latitude and longitudes were used to create a scatter plot where the scatter plot size was based on the number of bikes rented out from that location.  
 * From the color hues of the scatter, the location that had the maximum dark hue was found to be Manhattan.Manhattan being a very popular spot it is evident that the most number of bikes would be rented out from there.
 
-![Checkout time for users]()
+![Checkout time for users](Resources/Checkout_time_gender.png)
 
 *Figure 2: Checkout time for users*
 
