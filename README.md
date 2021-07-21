@@ -56,7 +56,7 @@ The purpose of this analysis is to spin a story with Tableau Visualizations. The
 * The male subscribers use the bike on weekends too.
 * The Customers on the other hand use the Citi Bike more in the weekends than the weekdays.
 
-![Checkout time by gender]()
+![Checkout time by gender](Resources/Checkout_time_gender.png)
 
 *Figure 6: Checkout time gender:*
 
