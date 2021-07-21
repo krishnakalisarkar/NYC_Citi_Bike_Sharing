@@ -45,7 +45,7 @@ The purpose of this analysis is to spin a story with Tableau Visualizations. The
 * In 2019, there were over 3,800 motor vehicle collisions in New York City involving a bicyclist where the cyclist was seriously injured or killed.  
 * Since the accidents involving cyclists and motor vehicles are on the rise in NYC, this might be why the women choose not to ride the bike.
 
-![User trips by gender per weekday]()
+![User trips by gender per weekday](Resources/Trips_gender.png)
 
 *Figure 5: User Trips by gender per weekday*
 
