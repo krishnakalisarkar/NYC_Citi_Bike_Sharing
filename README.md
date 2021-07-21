@@ -10,7 +10,7 @@ The purpose of this analysis is to spin a story with Tableau Visualizations. The
 
 ## Results:
 
-![Top Locations]()
+![Top Locations](Resources/Top_locations.png)
 
 *Figure 1: Top Starting Location in NYC*
 
