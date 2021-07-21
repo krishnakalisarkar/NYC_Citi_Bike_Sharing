@@ -85,7 +85,7 @@ Citi Bike is a privately owned public bicycle sharing system serving the New Yor
 
 ### Popular locations by name and User types.
 
-![Popular locations by name]()
+![Popular locations by name](Resources/Top_location_by_name.png)
 
 *Figure 8: Popular locations by name and usertypes*
 
