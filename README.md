@@ -24,7 +24,7 @@ The purpose of this analysis is to spin a story with Tableau Visualizations. The
 * The trip-duration in minutes and the total count of bike users were used to create a line graph with trip-duration in hours used as filters.  
 * From the graph, it is evident that most of the bikers (~ 145K) rent the Citi Bike for a maximum time of 5 minutes. This hits hold the point that the most convenient mode of short distance travel is the bike.
 
-![Checkout time by hour]()
+![Checkout time by hour](Resources/weekday_hourly.png)
 
 *Figure 3: Checkout time in Weekdays by the hour.*
 
