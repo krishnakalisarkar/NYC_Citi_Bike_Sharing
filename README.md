@@ -3,7 +3,7 @@
 
 ## Visualization with Tableau.
 
-![readme]()
+![readme](https://nycdotbikeshare.info/sites/default/files/2019-09/100%20K%20riders.jpg)
 
 ## Overview of the analysis: 
 The purpose of this analysis is to spin a story with Tableau Visualizations. The Citi Bike is a very popular mode of transport in New York. The data is succesfully visualized and analysed using tableau. Data visualization through Tableau is a very powerful tool to present your story to impress stakeholders who are keen in investing in the company. Data seen visually through Charts and graphs is always better perceived and understood.
