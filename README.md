@@ -105,5 +105,5 @@ COS(RADIANS([Start Station Latitude])) * COS(RADIANS([End Station Latitude])) * 
 * From the above graph it is evident that the average distance in miles travelled by Subscribers is high on Tuesdays  and Wednesdays. The Subscribers travel an average distance of 2.5 to 2.8 miles on Tuesdays and Wednesdays.  
 * This information is important for the maintenance of the bikes that are used the most.
 
-[link to dashboard](https://public.tableau.com/app/profile/krishnakali.sarkar). 
-[link to the NYC Challenge dashboard](https://public.tableau.com/app/profile/krishnakali.sarkar/viz/NYCBikeChallenge_16268206355750/NYCCitiBikeStory)
+[Link to dashboard](https://public.tableau.com/app/profile/krishnakali.sarkar). 
+[Link to the NYC Challenge dashboard](https://public.tableau.com/app/profile/krishnakali.sarkar/viz/NYCBikeChallenge_16268206355750/NYCCitiBikeStory)
