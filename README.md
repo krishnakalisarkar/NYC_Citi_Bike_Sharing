@@ -36,7 +36,7 @@ The purpose of this analysis is to spin a story with Tableau Visualizations. The
 * Weekends look to be the opposite of the weekdays where there is activity throughout the day from 10 AM to 7 PM.  
 * Saturdays are busier than Sundays.
 
-![Gender Breakdown]()
+![Gender Breakdown](Resources/gender_pie.png)
 
 *Figure 4: Gender Breakdown.*
 
