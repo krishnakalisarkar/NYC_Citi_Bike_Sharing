@@ -93,7 +93,7 @@ Citi Bike is a privately owned public bicycle sharing system serving the New Yor
 
 ### Average distance in miles travelled by the Subscribers and Customers.
 
-![Avg. distance in miles]()
+![Avg. distance in miles](Resources/Distance_travelled_by_Users.png)
 
 *Figure 9: Average distance in miles travelled by the Subscribers and Customers.*
 
