@@ -5,6 +5,10 @@
 
 ![readme](https://nycdotbikeshare.info/sites/default/files/2019-09/100%20K%20riders.jpg)
 
+**Please find the link to Tableau here:**  
+[Link to dashboard](https://public.tableau.com/app/profile/krishnakali.sarkar).  
+[Link to the NYC Challenge dashboard](https://public.tableau.com/app/profile/krishnakali.sarkar/viz/NYCBikeChallenge_16268206355750/NYCCitiBikeStory)
+
 ## Overview of the analysis: 
 The purpose of this analysis is to spin a story with Tableau Visualizations. The Citi Bike is a very popular mode of transport in New York. The data is succesfully visualized and analysed using tableau. Data visualization through Tableau is a very powerful tool to present your story to impress stakeholders who are keen in investing in the company. Data seen visually through Charts and graphs is always better perceived and understood.
 
@@ -104,7 +108,3 @@ COS(RADIANS([Start Station Latitude])) * COS(RADIANS([End Station Latitude])) * 
 ).  
 * From the above graph it is evident that the average distance in miles travelled by Subscribers is high on Tuesdays  and Wednesdays. The Subscribers travel an average distance of 2.5 to 2.8 miles on Tuesdays and Wednesdays.  
 * This information is important for the maintenance of the bikes that are used the most.
-
-**Please find the link to Tableau here:**  
-[Link to dashboard](https://public.tableau.com/app/profile/krishnakali.sarkar).  
-[Link to the NYC Challenge dashboard](https://public.tableau.com/app/profile/krishnakali.sarkar/viz/NYCBikeChallenge_16268206355750/NYCCitiBikeStory)
